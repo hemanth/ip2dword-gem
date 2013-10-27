@@ -1,5 +1,7 @@
+``` gem install ip2dword ```
+
 ```
-require "ip2word"
+require "ipd2word"
 p IP2dword.convert("192.168.1.1")
 {"dec"=>"3232235777", "oct"=>"30052000401", "hex"=>"c0a80101"}
 ```
